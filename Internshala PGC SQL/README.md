@@ -48,6 +48,7 @@ current contracts with other teams and their international commitments.
 players they are targeting.
 5. Player value: The team would need to consider the market value of the players they are
 interested in and decide how much they are willing to pay for them.
+
 To build a strong and balanced squad, the team's management would likely need to strike a balance
 between all of these factors and come up with a well-thought-out auction strategy. This could involve
 targeting a few key players they consider to be game-changers, while also filling out the rest of the
